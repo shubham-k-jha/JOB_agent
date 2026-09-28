@@ -1,0 +1,60 @@
+{
+  "candidate": {
+    "name": "Shubham Kumar Jha",
+    "location": "India",
+    "country_wide": true,
+    "remote_worldwide": true,
+    "email": "Stored locally; see your CV",
+    "phone": "Stored locally; see your CV",
+    "linkedin": "linkedin.com/in/shubhamkjha-datascience",
+    "github": "github.com/shubhamkjha-datascience"
+  },
+  "target_roles": [
+    "Data Analyst",
+    "Data Scientist",
+    "Junior Data Scientist",
+    "BI Analyst",
+    "Business Analyst",
+    "Product Analyst",
+    "Analytics Engineer"
+  ],
+  "preferences": {
+    "remote": true,
+    "hybrid": false,
+    "onsite": false,
+    "salary_currency": "INR",
+    "salary_min_lpa": 8,
+    "salary_target_lpa": 10
+  },
+  "verified_cv_evidence": {
+    "experience": [
+      "Junior Research Fellow \u2014 Data Analytics, NIT Delhi",
+      "Junior Research Fellow, Indian Institute of Astrophysics"
+    ],
+    "projects": [
+      "Superstore Sales & Profitability Analysis",
+      "UCI Online Retail II \u2014 Customer Analytics & Predictive Modeling",
+      "Solar Active-Region ML Benchmark"
+    ],
+    "skills": [
+      "Python",
+      "SQL",
+      "Pandas",
+      "NumPy",
+      "Statistics",
+      "Power BI",
+      "Tableau",
+      "Excel",
+      "MySQL",
+      "PostgreSQL",
+      "SQLite",
+      "scikit-learn",
+      "XGBoost",
+      "Streamlit",
+      "Git",
+      "GitHub",
+      "AWS Fundamentals"
+    ]
+  },
+  "evidence_policy": "CV is source of truth. Do not add claims, work authorization, salary expectation, or skills without user confirmation."
+}

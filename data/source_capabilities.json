@@ -1,0 +1,16 @@
+{
+  "direct_free": [
+    "Jobicy", "Remotive", "RemoteOK", "Arbeitnow", "Himalayas",
+    "Remote Landers — Employer ATS", "RemoteJobs.org", "Nomado24", "Startup Jobs RSS"
+  ],
+  "public_ats": [
+    "Greenhouse", "Lever", "Ashby", "SmartRecruiters", "Workable",
+    "Recruitee", "Breezy HR", "BambooHR", "Personio", "Teamtailor", "Rippling"
+  ],
+  "web_index": "Optional indexed discovery. Not an unrestricted API integration.",
+  "freshness_policy": {
+    "today": "Requires parseable timestamp whose UTC date equals today's UTC date.",
+    "24h": "Requires parseable timestamp within the last 24 hours.",
+    "unknown": "No freshness claim when timestamp cannot be established."
+  }
+}

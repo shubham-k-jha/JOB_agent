@@ -1,0 +1,40 @@
+{
+  "Python": [
+    "Pandas",
+    "NumPy",
+    "SciPy",
+    "scikit-learn",
+    "Matplotlib",
+    "Seaborn",
+    "Plotly"
+  ],
+  "SQL": [
+    "PostgreSQL",
+    "MySQL",
+    "SQLite",
+    "SQL Server",
+    "Snowflake"
+  ],
+  "Business Intelligence": [
+    "Power BI",
+    "Tableau",
+    "Looker",
+    "DAX",
+    "Power Query"
+  ],
+  "Machine Learning": [
+    "Regression",
+    "Classification",
+    "XGBoost",
+    "Feature Engineering",
+    "Model Evaluation"
+  ],
+  "Analytics": [
+    "Statistics",
+    "Exploratory Data Analysis",
+    "Time-Series Analysis",
+    "Data Cleaning",
+    "A/B Testing",
+    "Data Visualization"
+  ]
+}
